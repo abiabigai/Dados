@@ -14,3 +14,4 @@ C:\Users\abiab\source\repos\Dados\obj\Debug\net10.0-windows\refint\Dados.dll
 C:\Users\abiab\source\repos\Dados\obj\Debug\net10.0-windows\Dados.pdb
 C:\Users\abiab\source\repos\Dados\obj\Debug\net10.0-windows\Dados.genruntimeconfig.cache
 C:\Users\abiab\source\repos\Dados\obj\Debug\net10.0-windows\ref\Dados.dll
+C:\Users\abiab\source\repos\Dados\obj\Debug\net10.0-windows\Dados.sourcelink.json
